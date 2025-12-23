@@ -2,6 +2,23 @@
 
 A modern React Native mobile application for organizing and participating in sports events. Built with Expo, Paidego connects athletes, organizers, and sports enthusiasts through a comprehensive event management platform.
 
+
+## App Screenshots
+
+<img width="320" height="570" alt="Discover (1)" src="https://github.com/user-attachments/assets/364cbba3-1283-4381-a5d6-5ce8a4ec6e33" />
+
+<img width="320" height="570" alt="Near Me" src="https://github.com/user-attachments/assets/d7b77d1f-7439-4c1c-856b-03ec6099f05e" />
+
+<img width="320" height="570" alt="Discover (1)" src="https://github.com/user-attachments/assets/fa32625a-5a12-4e15-b05f-f7b75f115f38" />
+
+<img width="320" height="570" alt="Offiline Payment Procedure" src="https://github.com/user-attachments/assets/40a0e749-3023-465d-be8e-a637fc6ce2b7" />
+
+<img width="320" height="570" alt="Transaction (Insufficient Balance)" src="https://github.com/user-attachments/assets/d91a5484-7f6c-47e3-9dd2-84926fbc9213" />
+
+<img width="320" height="570" alt="Leaderboard" src="https://github.com/user-attachments/assets/6f1f72ab-9d9d-4e67-b84c-2c5a8eda8b88" />
+
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
